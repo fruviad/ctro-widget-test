@@ -48,7 +48,7 @@ The width and height attributes can be modified, but `height="400"` is recommend
 ##### Widget for children
 
 ```html
-<iframe src="ihttps://dwgreen1.github.io/ctro-widget-test/children.html" 
+<iframe src="https://dwgreen1.github.io/ctro-widget-test/children.html" 
         width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
@@ -69,7 +69,7 @@ The width and height attributes can be modified, but `height="400"` is recommend
 ##### Widget for adults
 
 ```html
-<iframe src="ihttps://dwgreen1.github.io/ctro-widget-test/adults.html" 
+<iframe src="https://dwgreen1.github.io/ctro-widget-test/adults.html" 
         width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
