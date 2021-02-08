@@ -34,37 +34,43 @@ There are five versions of the widget that can be dropped in to your website _as
 The width and height attributes can be modified, but `height="400"` is recommended for most cases. You can also set `width="100%"` so that the widget expands the width of its parent element:
 
 ```html
-<iframe src="index.html" width="100%" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+<iframe src="https://github.com/dwgreen1/ctro-widget-test/index.html" 
+        width="100%" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
 ##### Widget for all titles
 
 ```html
-<iframe src="index.html" width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+<iframe src="https://github.com/dwgreen1/ctro-widget-test/index.html" 
+        width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```
 
-##### Widget for young children
+##### Widget for children
 
 ```html
-<iframe src="index.html" width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
-```  
-
-##### Widget for tweens / middle grades
-
-```html
-<iframe src="index.html" width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+<iframe src="ihttps://github.com/dwgreen1/ctro-widget-test/children.html" 
+        width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
 ##### Widget for teens
 
 ```html
-<iframe src="index.html" width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+<iframe src="https://github.com/dwgreen1/ctro-widget-test/teens.html" 
+        width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+```  
+
+##### Widget for tweens / middle grades
+
+```html
+<iframe src="https://github.com/dwgreen1/ctro-widget-test/tweens.html" 
+        width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
 ##### Widget for adults
 
 ```html
-<iframe src="index.html" width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
+<iframe src="ihttps://github.com/dwgreen1/ctro-widget-test/adults.html" 
+        width="400" height="400" frameborder="0" scrolling="no" style="margin:0 auto;"></iframe>
 ```  
 
 ### Customizing the Widget (Self-Hosted Option)
